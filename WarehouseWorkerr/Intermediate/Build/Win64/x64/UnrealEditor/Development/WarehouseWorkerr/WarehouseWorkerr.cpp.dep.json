@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\arek\\onedrive - university of derby\\warehouseworkerr\\warehouseworker\\warehouseworkerr\\source\\warehouseworkerr\\warehouseworkerr.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\arek\\onedrive - university of derby\\warehouseworkerr\\warehouseworker\\warehouseworkerr\\intermediate\\build\\win64\\x64\\warehouseworkerreditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\arek\\onedrive - university of derby\\warehouseworkerr\\warehouseworker\\warehouseworkerr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\warehouseworkerr\\definitions.warehouseworkerr.h",
+            "c:\\users\\arek\\onedrive - university of derby\\warehouseworkerr\\warehouseworker\\warehouseworkerr\\source\\warehouseworkerr\\warehouseworkerr.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

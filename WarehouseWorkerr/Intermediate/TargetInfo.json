@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WarehouseWorkerr",
+			"Path": "C:\\Users\\Arek\\OneDrive - University of Derby\\WarehouseWorkerr\\WarehouseWorker\\WarehouseWorkerr\\Source\\WarehouseWorkerr.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WarehouseWorkerrEditor",
+			"Path": "C:\\Users\\Arek\\OneDrive - University of Derby\\WarehouseWorkerr\\WarehouseWorker\\WarehouseWorkerr\\Source\\WarehouseWorkerrEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
